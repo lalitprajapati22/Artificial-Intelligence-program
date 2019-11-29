@@ -111,7 +111,4 @@ return 0;
 
 
 
-OUTPUT :
-
-Minimum number of steps required is 6
 
